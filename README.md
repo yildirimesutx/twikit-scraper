@@ -1,4 +1,4 @@
-# Twitter Archive Scraper
+# Archive Scraper
 
 A Python tool for scraping historic tweets (e.g. 2018–2020) using the Twikit library without the official API.
 
